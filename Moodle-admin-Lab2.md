@@ -165,9 +165,10 @@ Site administration > Courses > Manage courses and categories
 ```
 
 **บันทึกรูปหน้า Category:** 
-```
- # บันทึกรูปหน้า Category
-```
+
+<img width="953" height="881" alt="image" src="https://github.com/user-attachments/assets/b9444e7a-599d-431d-9f4e-1eb1ea3388e1" />
+
+
 
 ### 3: สร้างและจัดการ Cohorts 
 **3.1 สร้างไฟล์ `cohorts.csv`:** ที่มีรายละเอียดด้านล่าง (สำหรับระดับมัธยมศึกษา) โดยเลือกเข้ารหัสเป็น UTF-8
@@ -319,9 +320,9 @@ CSV settings:
 - เลือก Encoding: UTF-8
 
 **บันทึกรูปหน้า Cohorts ที่สร้างแล้ว:** 
-```
- # บันทึกรูปหน้า Cohorts
-```
+
+<img width="1891" height="910" alt="image" src="https://github.com/user-attachments/assets/ed5c630a-35f4-4a14-b66e-e9e129cd9910" />
+
 
 ### 4: Bulk User Upload
 
@@ -380,18 +381,18 @@ Data settings:
 4. Upload type: Add new only
 5. Force password change: Yes
 
-**บันทึกรูปหน้า Users (Student):** 
-```
- # บันทึกรูปหน้า Users
-```
+**บันทึกรูปหน้า Users (Student):**
+
+<img width="1888" height="912" alt="image" src="https://github.com/user-attachments/assets/e58805c2-e06a-4f2c-8f57-143d7c15f54b" />
+
 
 **Upload Users (Teacher):**
 ทำการ Upload Users ที่เป็น Teaher โดยใช้ไฟล์ teachers_sample.csv
 
 **บันทึกรูปหน้า Users (Teacher):** 
-```
- # บันทึกรูปหน้า Users
-```
+
+<img width="1852" height="609" alt="image" src="https://github.com/user-attachments/assets/5c854777-de43-4965-bc15-82cf63bbcaed" />
+
 ---
 
 ## 3. Upload Courses 
@@ -428,10 +429,10 @@ Reset รหัสผ่านทั้งหมด (ไม่ต้องสร
 ---
 **เลือกไฟล์รายวิชา แล้วทำการ Upload**
 
-**บันทึกรูปหน้า Course :** 
-```
- # บันทึกรูปหน้า Course
-```
+**บันทึกรูปหน้า Course :**
+
+<img width="1913" height="915" alt="image" src="https://github.com/user-attachments/assets/b47706ec-3fae-4a2c-a9cc-2e8a0604d353" />
+
 
 #### 5. ตรวจสอบผลลัพธ์
 
@@ -466,9 +467,9 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 **5) หน้า Enrol Users เลือก users, cohorts และ Assign role ที่ต้องการ
 
 **บันทึกรูปหน้า Enroll ครู:** 
-```
- # บันทึกรูปหน้า Enroll
-```
+
+<img width="1912" height="835" alt="image" src="https://github.com/user-attachments/assets/aeae2580-6ed5-4664-847a-92b446120a9d" />
+
 
 **Enroll นักเรียนผ่าน Cohort sync:**
 - หน้า Participants > Enrolment methods  (จากเดิมจะเลือกเมนูเป็น Enrolled users ไว้)
@@ -477,15 +478,10 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 - Role: Student
 
 **บันทึกรูปหน้า Enroll นักเรียน:** 
-```
- # บันทึกรูปหน้า Enroll
-```
 
-```
-**บันทึกรูปหน้า Course ที่ Enrol User แล้ว :** 
-```
- # บันทึกรูปหน้า Course ที่ Enrol User แล้ว
-```
+<img width="1914" height="827" alt="image" src="https://github.com/user-attachments/assets/d42e44b6-4097-4e8b-9504-e4f57fe79510" />
+
+**บันทึกรูปหน้า Course ที่ Enrol User แล้ว**
 
 #### 6.2 เพิ่ม Activities
 **1) ทดสอบ Login เข้าระบบด้วย User Teacher ที่ได้สร้างขึ้น
@@ -495,29 +491,25 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 **5) สร้าง activity อย่างน้อยดังนี้
 
 **Section 1: Page**
-```
 Name: 1.1 ชื่อหัวข้อที่ 1
 Content: [เนื้อหาบทเรียน] ทำการเพิ่มเนื้อหาบทเรียน 
 
-```
 
 **Section 1: Assignment**
-```
 Name: งานที่ 1: (กำหนด Assignment ให้กับผู้เรียน)
 Due date: 7 วันจากวันนี้
-```
+
 
 **Section 2: Quiz**
-```
 Name: แบบทดสอบก่อนเรียน
 Time limit: 30 นาที
 Grade to pass: 60%
-```
+
 
 **บันทึกรูปหน้า Course ที่เพิ่มเติม Activities:** 
-```
- # บันทึกรูปหน้า Course ที่เพิ่มเติม Activities
-```
+
+<img width="1888" height="914" alt="image" src="https://github.com/user-attachments/assets/5db1f110-816a-4fba-bf3a-dee9d09766d4" />
+
 
 
 ## คำถามท้ายการทดลอง
